@@ -3,6 +3,6 @@
 image=https://visualidentity.columbia.edu/sites/default/files/styles/cu_crop/public/content/Colors/pms285e.jpg?itok=5OGYBqMQ
 #footer
 title=FirstPage
-sub-title=My First Page
-home-page=firstpage.craft
+sub-title=My First Site
+home-page=firstsite.craft
 color=-16742693
