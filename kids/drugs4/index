@@ -1,9 +1,8 @@
-#header
-text=Drugs R Fun
-scale=3
-padding=3
-#navigation
-color=-22016
-item-link-1=pp.yeah
-item-label-1=Fun Drugs
-item-icon-1=ARROW_RIGHT
+
+#banner
+image=https://visualidentity.columbia.edu/sites/default/files/styles/cu_crop/public/content/Colors/pms285e.jpg?itok=5OGYBqMQ
+#footer
+title=FirstPage
+sub-title=CUSTOM DOMAINS
+home-page=test.mine
+color=-16742693
