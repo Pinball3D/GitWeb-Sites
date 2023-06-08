@@ -1,0 +1,9 @@
+#header
+text=Drugs R Fun
+scale=3
+padding=3
+#navigation
+color=-22016
+item-link-1=pp.yeah
+item-label-1=Fun Drugs
+item-icon-1=ARROW_RIGHT
